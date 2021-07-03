@@ -1,0 +1,11 @@
+
+let score = 75;
+
+let message = "Exam is failed";
+
+// Complete the "if" statement so the exam is passed if the score is 70 or above
+if(){
+    message = "Congratulations, exam is passed!";
+}
+
+console.log(message);
