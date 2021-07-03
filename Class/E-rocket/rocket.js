@@ -1,7 +1,7 @@
 
 
 function moveRocket(y){
-    y = y - 1;
+    //y = y - 1;
     return y;
 }
 

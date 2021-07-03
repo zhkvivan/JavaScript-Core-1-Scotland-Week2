@@ -7,16 +7,16 @@ let speedX;
 let speedY;
 
 function moveBall(){
-    positionX += speedX;
-    positionY += speedY;
+    // positionX += speedX;
+    // positionY += speedY;
 
-    if(positionX > screenWidth || positionX < 0){
-        speedX *= -1;
-    }
+    // if(positionX > screenWidth || positionX < 0){
+    //     speedX *= -1;
+    // }
 
-    if(positionY > screenHeight || positionY < 0){
-        speedY *= -1;
-    }
+    // if(positionY > screenHeight || positionY < 0){
+    //     speedY *= -1;
+    // }
 }
 
 
