@@ -1,6 +1,6 @@
 
 // Change the value of myRole so your code prints "Good morning, get ready to learn!"
-let myRole = "mentor";
+let myRole = "student";
 
 let greeting = "Good morning, ";
 

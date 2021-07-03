@@ -1,13 +1,13 @@
 
 let javaScriptAge = 26;
 
-let myAge = 26;
+let myAge = 20; 
 
 // Complete the "if/else" statements below so your code prints the correct answer
-if(){
+if(myAge == javaScriptAge){
     console.log("You are the same age as JavaScript!");
 
-}else if(){
+}else if(myAge < javaScriptAge){
     console.log("You are younger than JavaScript!");
 
 }else{
